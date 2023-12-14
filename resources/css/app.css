@@ -1,0 +1,10 @@
+/* Mover la barra de búsqueda a la izquierda */
+.dataTables_filter {
+    float: left; /* Utiliza float para alinear a la izquierda */
+    margin-right: 10px; /* Agrega un margen derecho para separarla de los registros por página */
+}
+
+/* Estilo adicional para la barra de búsqueda si es necesario */
+.dataTables_filter input[type="search"] {
+    /* Estilos adicionales, si los necesitas */
+}

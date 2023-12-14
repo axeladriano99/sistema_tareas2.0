@@ -1,0 +1,28 @@
+.fecha{
+    display: flex;
+}
+.fecha input{
+    margin: 16px;
+
+}
+.margen-tabla{
+    padding-left: 50px;
+    padding-right: 30px;
+
+}
+.dataTables_length{
+    padding-left: 25px;
+  
+  }
+  .tarjeta-centrada {
+    
+padding-right: 40px;    
+  }
+.espaciado{
+    padding: 15px;
+    padding-left: 15;
+    padding-right: 15px;
+}
+.nombre{
+     color: blue;
+}
